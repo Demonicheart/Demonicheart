@@ -1,5 +1,11 @@
 ### Hi there 👋
+**Demonicheart** ✨ repository `README.md` GitHub profile.
+<!--
+[![Demonic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demonicheart&show_icons=true&theme=github_dark)
+](https://github.com/Demonicheart/github-readme-stats) 
+-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicheart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Demonicheart/Demonicheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
